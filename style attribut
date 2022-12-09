@@ -30,17 +30,17 @@ tr:hover {background-color: pink;}
   <tr>
     <td>Peter</td>
     <td>Griffin</td>
-    <td>$100</td>
+    <td>Rs 100/-</td>
   </tr>
   <tr>
     <td>Lois</td>
     <td>Griffin</td>
-    <td>$150</td>
+    <td>Rs 150/-</td>
   </tr>
   <tr>
     <td>Joe</td>
     <td>Swanson</td>
-    <td>$300</td>
+    <td>RS 300/-</td>
   </tr>
   <tr>
     <td>Cleveland</td>
